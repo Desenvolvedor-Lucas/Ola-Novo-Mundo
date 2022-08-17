@@ -1,2 +1,4 @@
-# Ola Novo Mundo
+# Olá, Novo Mundo
  Primeiro repositório do curso Git e GitHub
+
+ Repositório criado durante uma aula ao vivo!
